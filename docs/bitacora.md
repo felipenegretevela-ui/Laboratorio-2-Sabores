@@ -1,3 +1,11 @@
+## Repositorio
+
+Repositorio del laboratorio:
+
+https://github.com/felipenegretevela-ui/Laboratorio-2-Sabores
+
+El proyecto fue subido a GitHub al terminar el laboratorio.
+
 # Bitácora - Laboratorio 2 Sabores
 
 ## Ejercicio 0
